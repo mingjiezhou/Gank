@@ -5,7 +5,7 @@
 ## Online Demo
 [https://lxz612.github.io/Gank/](https://lxz612.github.io/Gank/)
 
-[https://mingjiezhou.github.io/Gank/](https://lxz612.github.io/Gank/)
+[https://mingjiezhou.github.io/Gank/](https://mingjiezhou.github.io/Gank/)
 
 ## Summary
 这是一个基于Vue的项目。虽然Vue2.0已经出来了，但是这个项目依然用Vue1.0来构建。vue-router也是1.0版本的，语法方面也都是用ES5。因为作为一个初学者，所以还是希望自己从头开始来学习Vue，学习ES。
